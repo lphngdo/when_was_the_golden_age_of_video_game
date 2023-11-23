@@ -15,6 +15,6 @@
 >
 >Data Manipulation
 >
->**_Technologies_**
+>**_Technologies:_**
 >
 >PostgreSQL | SQL
