@@ -9,3 +9,8 @@
 6. [X] Years video game players loved
 7. [X] Years that both players and critics loved
 8. [X] Sales in the best video game years
+
+>[!NOTE]
+>**_Skills:_**
+>
+>Data Manipulation
